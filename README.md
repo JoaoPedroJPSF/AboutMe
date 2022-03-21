@@ -1,5 +1,5 @@
 # João Pedro da Silva Ferreira
-> 20 anos, solteiro, brasileiro, Ribeirão Preto - SP
+> 20 anos | solteiro | brasileiro | Ribeirão Preto - SP
 
 ## Objetivo
 > Migrar para a área de TI, atuar no backend.
