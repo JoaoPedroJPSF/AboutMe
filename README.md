@@ -14,6 +14,8 @@
 > HTML |
 > CSS |
 > Bootstrap |
+> Git |
+> Github
 
 ## Experiência profissional
 *Out, 2021 - Atualmente*
