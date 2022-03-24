@@ -4,6 +4,9 @@
 ## Objetivo
 > Migrar para a área de TI, atuar no backend.
 
+## Projeto atual Março/2022
+> Criando To-do list com typescript, express e mongoose. Backend apenas, por enquanto. Front end será construído em React.
+
 ## Tecnologias
 > Python |
 > Javascript |
