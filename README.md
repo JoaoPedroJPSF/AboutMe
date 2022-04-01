@@ -4,10 +4,10 @@
 ## Objetivo
 > Iniciar na área de TI.
 
-## Projeto atual Março/2022
+## Projeto atual Abril/2022
 > Criando To-do list backend com typescript, express para construção e administração de rotas e MongoDB com mongoose para banco de dados.
 
-## Estudo atual Março/2022
+## Estudo atual Abril/2022
 > Typescript com OOP para desenvolver API backend | Java pela faculdade, noções básicas e OOP | React para desenvolver mais frontend.
 
 ## Tecnologias
