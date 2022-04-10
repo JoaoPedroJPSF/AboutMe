@@ -4,11 +4,18 @@
 ## Objetivo
 > Iniciar na área de TI.
 
-## Projeto atual Abril/2022
-> Criando To-do list backend com typescript, express para construção e administração de rotas e MongoDB com mongoose para banco de dados.
+## Estudo atual
+> - Análise e levantamentos de requisitos
+> - Design de software
+> - Processos de criação de software
+> - Programação Orientada a Objetos
+> - Desenvolvimento Web Backend (Typescript)
 
-## Estudo atual Abril/2022
-> Typescript com OOP para desenvolver API backend | Java pela faculdade, noções básicas e OOP | React para desenvolver mais frontend.
+> ## Último Projeto:
+> [To do List](https://github.com/JoaoPedroJPSF/To-do-list-Typescript)
+> - Typescript
+> - Express
+> - MongoDB (mongoose)
 
 ## Tecnologias
 > Python |
