@@ -39,7 +39,7 @@
 > Desde jovem sempre fui fascinado com aprender coisas novas e diferentes, mas devido a situação financeira nunca tive muitas oportunidades formais para aprender mais efetivamente. Por causa desta realidade, eu tive que aprender a sempre aprender e procurar as informações das maneiras mais diversas possíveis, e desenvolvi muito a minha capacidade de aprendizado. Sou apaixonado por desafios, e ver um problema complexo me faz querer ficar naquele momento até resolver. Acredito que a área de Tecnologia seja a melhor área para o meu perfil.
 
 ## Experiência profissional
-*Out, 2021 - Atualmente*
+*Out, 2021 - Mai - 2022*
 - Analista de Planejamento e Controle de Produção
 > Analiso e controlo lançamentos dos dados gerados pela fábrica utilizando excel para controle, e power point para apresentação.
 
