@@ -5,11 +5,9 @@
 > Iniciar na área de TI.
 
 ## Estudo atual
-> - Análise e levantamentos de requisitos
-> - Design de software
-> - Processos de criação de software
-> - Programação Orientada a Objetos
-> - Desenvolvimento Web Backend (Typescript)
+> - Processamento de Linguagem Natural
+> - Big Data
+> - Web Scrapping
 
 > ## Último Projeto:
 > [To do List](https://github.com/JoaoPedroJPSF/To-do-list-Typescript)
