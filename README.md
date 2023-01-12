@@ -41,20 +41,19 @@
 ## Experiência profissional
 *Out, 2021 - Mai - 2022*
 - Analista de Planejamento e Controle de Produção
-> Analiso e controlo lançamentos dos dados gerados pela fábrica utilizando excel para controle, e power point para apresentação.
+> Analisei e controlei lançamentos dos dados gerados pela fábrica utilizando excel para controle, e power point para apresentação.
 
 *Out, 2020 - Out, 2021*
 - Auxiliar Administrativo
 > Auxiliava no lançamento de notas e análise dos números.
 
 ## Formação Acadêmica
-*Out, 2021 - Em andamento*
+*Out, 2021 - 2022*
 - Análise e Desenvolvimento de Sistemas - *Faculdade Descomplica*
-> Aprendo sobre todos os processos de desenvolvimento de sistemas.
 
 *Maio, 2021 - Em andamento*
 - Ciências Sociais - *Universidade Federal de Alfenas - MG*
-> Compreendo o funcionamento da sociedade e desenvolvo minhas capacidades de analíse crítica.
+> Desenvolvo algoritmos de análise de discurso para compreender comportamento político e comportamento de massas utilizando métodos de análise da área.
 
 ## Certificados e Cursos
 Capacitação Planejamento Estratégico (36 horas) - *Universidade Federal de Alfenas - MG*
